@@ -10,3 +10,24 @@ fasdfsfasdfgfadsf
         <p class="card-text">Text</p>
     </div>
 </div>
+fasdfsfasdfdafdsf
+<div class="d-flex <div class="dropdown open">
+    <button class="btn btn-secondary btn-sm dropdown-toggle" type="button" id="triggerId" data-bs-toggle="dropdown" aria-haspopup="true"
+            aria-expanded="false">
+                f
+                
+            </button>
+    <div class="dropdown-menu" aria-labelledby="triggerId">
+        <a class="dropdown-item" href="#">Action</a>
+        <a class="dropdown-item disabled" href="#">Disabled action</a>
+        <h6 class="dropdown-header">Section header</h6>
+        <a class="dropdown-item" href="#">Action</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">After divider action</a>
+    </div>
+</div> align-items-center">
+    <div class="spinner-border text-primary spinner-border-sm"
+        role="status">
+        <span class="visually-hidden">Loading...</span>
+    </div>
+</div>
