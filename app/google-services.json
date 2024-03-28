@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "974648296213",
+    "firebase_url": "https://presentationtest-8832a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "presentationtest-8832a",
+    "storage_bucket": "presentationtest-8832a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974648296213:android:1d83c50717be3115369f1c",
+        "android_client_info": {
+          "package_name": "com.example.realtimedbtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi1MkFnUeg65tXOdnVRFs5sfq8fI0We-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
