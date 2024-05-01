@@ -6,7 +6,7 @@ fasdfsfasdfgfadsf
     af
     ds" alt="Title">
     <div class="card-body">
-        <h4 class="card-title">Title</h4>
+        <h4 class="card-tfasdfasdfsitle">Title</h4>
         <p class="card-text">Text</p>
     </div>
 </div>
@@ -15,7 +15,7 @@ fasdfsfasdfdafdsf
     <button class="btn btn-secondary btn-sm dropdown-toggle" type="button" id="triggerId" data-bs-toggle="dropdown" aria-haspopup="true"
             aria-expanded="false">
                 f
-                
+
             </button>
     <div class="dropdown-menu" aria-labelledby="triggerId">
         <a class="dropdown-item" href="#">Action</a>
